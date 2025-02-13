@@ -22,19 +22,19 @@ api = "0.7"
   [[order.group]]
     id = "paketo-buildpacks/watchexec"
     optional = true
-    version = "3.3.1"
+    version = "3.4.0"
 
   [[order.group]]
     id = "paketo-buildpacks/node-engine"
-    version = "5.2.1"
+    version = "5.2.3"
 
   [[order.group]]
     id = "paketo-buildpacks/yarn"
-    version = "1.3.27"
+    version = "1.3.29"
 
   [[order.group]]
     id = "paketo-buildpacks/yarn-install"
-    version = "2.1.9"
+    version = "2.1.11"
 
   [[order.group]]
     id = "paketo-buildpacks/node-run-script"
@@ -49,7 +49,7 @@ api = "0.7"
   [[order.group]]
     id = "paketo-buildpacks/yarn-start"
     optional = true
-    version = "2.0.24"
+    version = "2.0.27"
 
   [[order.group]]
     id = "paketo-buildpacks/procfile"
@@ -76,15 +76,15 @@ api = "0.7"
   [[order.group]]
     id = "paketo-buildpacks/watchexec"
     optional = true
-    version = "3.3.1"
+    version = "3.4.0"
 
   [[order.group]]
     id = "paketo-buildpacks/node-engine"
-    version = "5.2.1"
+    version = "5.2.3"
 
   [[order.group]]
     id = "paketo-buildpacks/npm-install"
-    version = "1.6.9"
+    version = "1.8.2"
 
   [[order.group]]
     id = "paketo-buildpacks/node-run-script"
@@ -126,11 +126,11 @@ api = "0.7"
   [[order.group]]
     id = "paketo-buildpacks/watchexec"
     optional = true
-    version = "3.3.1"
+    version = "3.4.0"
 
   [[order.group]]
     id = "paketo-buildpacks/node-engine"
-    version = "5.2.1"
+    version = "5.2.3"
 
   [[order.group]]
     id = "paketo-buildpacks/node-start"
