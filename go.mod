@@ -1,6 +1,6 @@
 module github.com/paketo-buildpacks/nodejs
 
-go 1.23.4
+go 1.24.0
 
 require (
 	github.com/onsi/gomega v1.35.1
